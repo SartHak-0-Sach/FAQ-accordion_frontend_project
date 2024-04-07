@@ -30,7 +30,7 @@ body {
 
 #container {
     background-color: white;
-    position: absolute;
+    /* position: absolute; */
     top: 15%;
     max-width: 600px;
     width: 100%;
@@ -40,7 +40,7 @@ body {
 }
 
 .attribution {
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     z-index: 1;
 }
